@@ -1,0 +1,9 @@
+C:\Users\dEND\source\repos\Models\ServerLibs\obj\Debug\ServerLibs.csprojResolveAssemblyReference.cache
+C:\Users\dEND\source\repos\Models\ServerLibs\obj\Debug\ServerLibs.csproj.CoreCompileInputs.cache
+C:\Users\dEND\source\repos\Models\ServerLibs\bin\Debug\ServerLibs.dll
+C:\Users\dEND\source\repos\Models\ServerLibs\bin\Debug\ServerLibs.pdb
+C:\Users\dEND\source\repos\Models\ServerLibs\bin\Debug\Models.dll
+C:\Users\dEND\source\repos\Models\ServerLibs\bin\Debug\Models.pdb
+C:\Users\dEND\source\repos\Models\ServerLibs\obj\Debug\ServerLibs.csproj.CopyComplete
+C:\Users\dEND\source\repos\Models\ServerLibs\obj\Debug\ServerLibs.dll
+C:\Users\dEND\source\repos\Models\ServerLibs\obj\Debug\ServerLibs.pdb

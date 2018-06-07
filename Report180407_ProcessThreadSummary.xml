@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PerformanceReport>
+  <ProcessThreadSummary>
+    <ProcessThread ProcessThreadType="Process" UID="0" ID="6148" ProcThreadName="iisexpress.exe" BeginTime="22 628,24" EndTime="64 003,27" LifeTime="41 375,02" />
+    <ProcessThread ProcessThreadType="Thread" UID="0" ID="1868" ProcThreadName="Безымянный поток" BeginTime="22 628,34" EndTime="64 003,27" LifeTime="41 374,92" />
+    <ProcessThread ProcessThreadType="Thread" UID="4" ID="8988" ProcThreadName="Безымянный поток" BeginTime="27 675,58" EndTime="64 003,27" LifeTime="36 327,69" />
+    <ProcessThread ProcessThreadType="Thread" UID="5" ID="5404" ProcThreadName="Безымянный поток" BeginTime="27 691,47" EndTime="64 003,27" LifeTime="36 311,80" />
+    <ProcessThread ProcessThreadType="Thread" UID="9" ID="8808" ProcThreadName="Безымянный поток" BeginTime="40 929,96" EndTime="64 003,27" LifeTime="23 073,30" />
+    <ProcessThread ProcessThreadType="Thread" UID="10" ID="6940" ProcThreadName="Безымянный поток" BeginTime="49 541,89" EndTime="64 003,27" LifeTime="14 461,38" />
+    <ProcessThread ProcessThreadType="Thread" UID="11" ID="8736" ProcThreadName="Безымянный поток" BeginTime="49 542,21" EndTime="64 003,27" LifeTime="14 461,05" />
+    <ProcessThread ProcessThreadType="Thread" UID="12" ID="7900" ProcThreadName="Безымянный поток" BeginTime="49 542,34" EndTime="64 003,27" LifeTime="14 460,93" />
+    <ProcessThread ProcessThreadType="Thread" UID="13" ID="7568" ProcThreadName="Безымянный поток" BeginTime="49 542,45" EndTime="64 003,27" LifeTime="14 460,82" />
+    <ProcessThread ProcessThreadType="Thread" UID="14" ID="3960" ProcThreadName="Безымянный поток" BeginTime="49 779,81" EndTime="64 003,27" LifeTime="14 223,46" />
+    <ProcessThread ProcessThreadType="Thread" UID="15" ID="9008" ProcThreadName="Безымянный поток" BeginTime="49 780,46" EndTime="64 003,27" LifeTime="14 222,80" />
+  </ProcessThreadSummary>
+</PerformanceReport>

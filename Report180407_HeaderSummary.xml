@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PerformanceReport>
+  <HeaderSummary>
+    <Header HeaderName="Выделение" HeaderCategory="Коллекция" HeaderValue="False" />
+    <Header HeaderName="Выборка" HeaderCategory="Коллекция" HeaderValue="False" />
+    <Header HeaderName="Является параллельностью" HeaderCategory="Коллекция" HeaderValue="False" />
+    <Header HeaderName="Является конфликтом ресурсов" HeaderCategory="Коллекция" HeaderValue="False" />
+    <Header HeaderName="Является визуализатором" HeaderCategory="Коллекция" HeaderValue="False" />
+    <Header HeaderName="Инструментирование" HeaderCategory="Коллекция" HeaderValue="True" />
+    <Header HeaderName="64 разряда" HeaderCategory="Коллекция" HeaderValue="False" />
+    <Header HeaderName="Время жизни" HeaderCategory="Коллекция" HeaderValue="False" />
+    <Header HeaderName="Неподдерживаемый тип CLR" HeaderCategory="Коллекция" HeaderValue="False" />
+    <Header HeaderName="DHP произошло" HeaderCategory="Коллекция" HeaderValue="False" />
+    <Header HeaderName="Завершено ли приложение UMS" HeaderCategory="Коллекция" HeaderValue="False" />
+    <Header HeaderName="Является TIP" HeaderCategory="Коллекция" HeaderValue="False" />
+    <Header HeaderName="Является JScript" HeaderCategory="Коллекция" HeaderValue="False" />
+    <Header HeaderName="Мягкий выход" HeaderCategory="Коллекция" HeaderValue="True" />
+    <Header HeaderName="Управляемый" HeaderCategory="Коллекция" HeaderValue="True" />
+    <Header HeaderName="Время создания" HeaderCategory="Общие" HeaderValue="07.04.2018 15:23:12" />
+    <Header HeaderName="Размер буферов" HeaderCategory="Общие" HeaderValue="65536" />
+    <Header HeaderName="Буферы ввода/вывода" HeaderCategory="Общие" HeaderValue="514" />
+    <Header HeaderName="Максимальная загрузка потоков" HeaderCategory="Поток" HeaderValue="13" />
+    <Header HeaderName="Всего потоков" HeaderCategory="Поток" HeaderValue="16" />
+    <Header HeaderName="Количество потоков" HeaderCategory="Поток" HeaderValue="13" />
+    <Header HeaderName="Максимальное число потоков" HeaderCategory="Поток" HeaderValue="512" />
+    <Header HeaderName="Максимальная загрузка процессов" HeaderCategory="Процесс" HeaderValue="1" />
+    <Header HeaderName="Всего процессов" HeaderCategory="Процесс" HeaderValue="1" />
+    <Header HeaderName="Число процессов" HeaderCategory="Процесс" HeaderValue="0" />
+    <Header HeaderName="Максимальное число процессов" HeaderCategory="Процесс" HeaderValue="64" />
+    <Header HeaderName="Дополнительный номер версии файла" HeaderCategory="Сведения о версии" HeaderValue="1" />
+    <Header HeaderName="Строка версии" HeaderCategory="Сведения о версии" HeaderValue="15.0.27413 x86" />
+    <Header HeaderName="Дополнительный номер версии продукта" HeaderCategory="Сведения о версии" HeaderValue="0" />
+    <Header HeaderName="Основной номер версии продукта" HeaderCategory="Сведения о версии" HeaderValue="15" />
+    <Header HeaderName="Основной номер версии файла" HeaderCategory="Сведения о версии" HeaderValue="43" />
+    <Header HeaderName="Номер сборки" HeaderCategory="Сведения о версии" HeaderValue="27413" />
+    <Header HeaderName="Номер сборки операционной системы" HeaderCategory="Сведения о компьютере" HeaderValue="7601" />
+    <Header HeaderName="Дополнительный номер версии операционной системы" HeaderCategory="Сведения о компьютере" HeaderValue="1" />
+    <Header HeaderName="Основной номер версии операционной системы" HeaderCategory="Сведения о компьютере" HeaderValue="6" />
+    <Header HeaderName="Тактовая частота" HeaderCategory="Сведения о компьютере" HeaderValue="3093" />
+    <Header HeaderName="Выпуск процессора" HeaderCategory="Сведения о компьютере" HeaderValue="7" />
+    <Header HeaderName="Модель ЦПУ" HeaderCategory="Сведения о компьютере" HeaderValue="10" />
+    <Header HeaderName="Семейство процессоров" HeaderCategory="Сведения о компьютере" HeaderValue="6" />
+    <Header HeaderName="Архитектура процессора" HeaderCategory="Сведения о компьютере" HeaderValue="Intel" />
+    <Header HeaderName="Тип процессора" HeaderCategory="Сведения о компьютере" HeaderValue="Intel" />
+    <Header HeaderName="Имя компьютера" HeaderCategory="Сведения о компьютере" HeaderValue="PC_FOR_DOTA" />
+    <Header HeaderName="Число процессоров" HeaderCategory="Сведения о компьютере" HeaderValue="4" />
+    <Header HeaderName="Счетчик 0" HeaderCategory="Счетчики производительности" HeaderValue="TimeStamp Counter" />
+    <Header HeaderName="ETL-файл приложения" HeaderCategory="Трассировка событий Windows" HeaderValue="" />
+    <Header HeaderName="ETL-файл ядра" HeaderCategory="Трассировка событий Windows" HeaderValue="" />
+    <Header HeaderName="Сигнатура ETL-файла" HeaderCategory="Трассировка событий Windows" HeaderValue="00000000-0000-0000-0000-000000000000" />
+  </HeaderSummary>
+</PerformanceReport>

@@ -1,0 +1,6 @@
+C:\Users\dEND\source\repos\Models\Models\bin\Release\Models.dll
+C:\Users\dEND\source\repos\Models\Models\bin\Release\Models.pdb
+C:\Users\dEND\source\repos\Models\Models\obj\Release\Models.csprojResolveAssemblyReference.cache
+C:\Users\dEND\source\repos\Models\Models\obj\Release\Models.csproj.CoreCompileInputs.cache
+C:\Users\dEND\source\repos\Models\Models\obj\Release\Models.dll
+C:\Users\dEND\source\repos\Models\Models\obj\Release\Models.pdb

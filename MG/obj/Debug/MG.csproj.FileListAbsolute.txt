@@ -1,0 +1,6 @@
+C:\Users\dEND\source\repos\Models\MG\bin\Debug\MG.dll
+C:\Users\dEND\source\repos\Models\MG\bin\Debug\MG.pdb
+C:\Users\dEND\source\repos\Models\MG\obj\Debug\MG.csproj.CoreCompileInputs.cache
+C:\Users\dEND\source\repos\Models\MG\obj\Debug\MG.dll
+C:\Users\dEND\source\repos\Models\MG\obj\Debug\MG.pdb
+C:\Users\dEND\source\repos\Models\MG\obj\Debug\MG.csprojResolveAssemblyReference.cache

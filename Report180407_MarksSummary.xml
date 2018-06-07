@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PerformanceReport>
+  <MarksSummary>
+    <Marks MID="0" MarkComment="Начало программы" Timestamp="0,00" Counter0="0" />
+    <Marks MID="1" MarkComment="AutoMark" Timestamp="0,00" Counter0="0" />
+    <Marks MID="2" MarkComment="AutoMark" Timestamp="528,04" Counter0="28" />
+    <Marks MID="3" MarkComment="AutoMark" Timestamp="1 047,29" Counter0="21" />
+    <Marks MID="4" MarkComment="AutoMark" Timestamp="1 550,07" Counter0="17" />
+    <Marks MID="5" MarkComment="AutoMark" Timestamp="2 550,12" Counter0="22" />
+    <Marks MID="6" MarkComment="AutoMark" Timestamp="3 060,16" Counter0="25" />
+    <Marks MID="7" MarkComment="AutoMark" Timestamp="4 060,19" Counter0="22" />
+    <Marks MID="8" MarkComment="AutoMark" Timestamp="5 060,24" Counter0="4" />
+    <Marks MID="9" MarkComment="AutoMark" Timestamp="6 060,28" Counter0="4" />
+    <Marks MID="10" MarkComment="AutoMark" Timestamp="7 060,33" Counter0="3" />
+    <Marks MID="11" MarkComment="AutoMark" Timestamp="7 560,36" Counter0="8" />
+    <Marks MID="12" MarkComment="AutoMark" Timestamp="8 560,41" Counter0="5" />
+    <Marks MID="13" MarkComment="AutoMark" Timestamp="9 560,46" Counter0="4" />
+    <Marks MID="14" MarkComment="AutoMark" Timestamp="10 560,50" Counter0="6" />
+    <Marks MID="15" MarkComment="AutoMark" Timestamp="11 060,52" Counter0="7" />
+    <Marks MID="16" MarkComment="AutoMark" Timestamp="12 062,58" Counter0="5" />
+    <Marks MID="17" MarkComment="AutoMark" Timestamp="13 062,63" Counter0="9" />
+    <Marks MID="18" MarkComment="AutoMark" Timestamp="13 562,67" Counter0="15" />
+    <Marks MID="19" MarkComment="AutoMark" Timestamp="14 562,70" Counter0="5" />
+    <Marks MID="20" MarkComment="AutoMark" Timestamp="15 563,08" Counter0="9" />
+    <Marks MID="21" MarkComment="AutoMark" Timestamp="16 062,78" Counter0="7" />
+    <Marks MID="22" MarkComment="AutoMark" Timestamp="16 562,80" Counter0="0" />
+    <Marks MID="23" MarkComment="AutoMark" Timestamp="17 062,84" Counter0="7" />
+    <Marks MID="24" MarkComment="AutoMark" Timestamp="18 062,86" Counter0="14" />
+    <Marks MID="25" MarkComment="AutoMark" Timestamp="19 062,91" Counter0="8" />
+    <Marks MID="26" MarkComment="AutoMark" Timestamp="19 562,94" Counter0="8" />
+    <Marks MID="27" MarkComment="AutoMark" Timestamp="20 562,98" Counter0="4" />
+    <Marks MID="28" MarkComment="AutoMark" Timestamp="21 564,05" Counter0="5" />
+    <Marks MID="29" MarkComment="AutoMark" Timestamp="22 064,08" Counter0="6" />
+    <Marks MID="30" MarkComment="AutoMark" Timestamp="23 128,25" Counter0="23" />
+    <Marks MID="31" MarkComment="AutoMark" Timestamp="23 689,33" Counter0="29" />
+    <Marks MID="32" MarkComment="AutoMark" Timestamp="24 689,26" Counter0="27" />
+    <Marks MID="33" MarkComment="AutoMark" Timestamp="25 689,29" Counter0="25" />
+    <Marks MID="34" MarkComment="AutoMark" Timestamp="26 218,55" Counter0="26" />
+    <Marks MID="35" MarkComment="AutoMark" Timestamp="26 718,43" Counter0="22" />
+    <Marks MID="36" MarkComment="AutoMark" Timestamp="27 718,41" Counter0="27" />
+    <Marks MID="37" MarkComment="AutoMark" Timestamp="28 718,52" Counter0="28" />
+    <Marks MID="38" MarkComment="AutoMark" Timestamp="29 912,06" Counter0="16" />
+    <Marks MID="39" MarkComment="AutoMark" Timestamp="30 716,60" Counter0="20" />
+    <Marks MID="40" MarkComment="AutoMark" Timestamp="31 496,71" Counter0="25" />
+    <Marks MID="41" MarkComment="AutoMark" Timestamp="32 614,93" Counter0="36" />
+    <Marks MID="42" MarkComment="AutoMark" Timestamp="33 114,67" Counter0="25" />
+    <Marks MID="43" MarkComment="AutoMark" Timestamp="34 205,29" Counter0="20" />
+    <Marks MID="44" MarkComment="AutoMark" Timestamp="35 672,19" Counter0="14" />
+    <Marks MID="45" MarkComment="AutoMark" Timestamp="36 907,64" Counter0="11" />
+    <Marks MID="46" MarkComment="AutoMark" Timestamp="37 907,92" Counter0="12" />
+    <Marks MID="47" MarkComment="AutoMark" Timestamp="38 644,46" Counter0="10" />
+    <Marks MID="48" MarkComment="AutoMark" Timestamp="39 643,98" Counter0="23" />
+    <Marks MID="49" MarkComment="AutoMark" Timestamp="40 643,98" Counter0="33" />
+    <Marks MID="50" MarkComment="AutoMark" Timestamp="41 144,12" Counter0="30" />
+    <Marks MID="51" MarkComment="AutoMark" Timestamp="42 144,06" Counter0="6" />
+    <Marks MID="52" MarkComment="AutoMark" Timestamp="43 144,10" Counter0="1" />
+    <Marks MID="53" MarkComment="AutoMark" Timestamp="43 644,31" Counter0="31" />
+    <Marks MID="54" MarkComment="AutoMark" Timestamp="44 144,40" Counter0="11" />
+    <Marks MID="55" MarkComment="AutoMark" Timestamp="44 644,18" Counter0="20" />
+    <Marks MID="56" MarkComment="AutoMark" Timestamp="45 644,21" Counter0="3" />
+    <Marks MID="57" MarkComment="AutoMark" Timestamp="46 644,27" Counter0="33" />
+    <Marks MID="58" MarkComment="AutoMark" Timestamp="47 144,35" Counter0="51" />
+    <Marks MID="59" MarkComment="AutoMark" Timestamp="48 144,34" Counter0="38" />
+    <Marks MID="60" MarkComment="AutoMark" Timestamp="49 144,39" Counter0="43" />
+    <Marks MID="61" MarkComment="AutoMark" Timestamp="49 644,42" Counter0="47" />
+    <Marks MID="62" MarkComment="AutoMark" Timestamp="50 644,46" Counter0="48" />
+    <Marks MID="63" MarkComment="AutoMark" Timestamp="51 644,50" Counter0="44" />
+    <Marks MID="64" MarkComment="AutoMark" Timestamp="52 144,54" Counter0="50" />
+    <Marks MID="65" MarkComment="AutoMark" Timestamp="53 144,59" Counter0="42" />
+    <Marks MID="66" MarkComment="AutoMark" Timestamp="54 144,64" Counter0="42" />
+    <Marks MID="67" MarkComment="AutoMark" Timestamp="55 144,69" Counter0="44" />
+    <Marks MID="68" MarkComment="AutoMark" Timestamp="56 144,73" Counter0="43" />
+    <Marks MID="69" MarkComment="AutoMark" Timestamp="57 144,78" Counter0="46" />
+    <Marks MID="70" MarkComment="AutoMark" Timestamp="57 644,80" Counter0="43" />
+    <Marks MID="71" MarkComment="AutoMark" Timestamp="58 644,84" Counter0="14" />
+    <Marks MID="72" MarkComment="AutoMark" Timestamp="59 644,95" Counter0="9" />
+    <Marks MID="73" MarkComment="AutoMark" Timestamp="60 144,92" Counter0="6" />
+    <Marks MID="74" MarkComment="AutoMark" Timestamp="61 144,97" Counter0="10" />
+    <Marks MID="75" MarkComment="AutoMark" Timestamp="62 145,02" Counter0="3" />
+    <Marks MID="76" MarkComment="AutoMark" Timestamp="62 645,05" Counter0="0" />
+    <Marks MID="77" MarkComment="AutoMark" Timestamp="63 645,10" Counter0="2" />
+    <Marks MID="4294967295" MarkComment="Конец программы" Timestamp="64 645,15" Counter0="0" />
+    <Marks MID="78" MarkComment="AutoMark" Timestamp="64 645,15" Counter0="9" />
+  </MarksSummary>
+</PerformanceReport>
